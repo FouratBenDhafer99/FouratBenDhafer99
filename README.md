@@ -54,11 +54,14 @@ I'm Fourat Ben Dhafer!
   <summary><h3>:fire: My Stats :</h3></summary>
   
   <br>
+
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FouratBenDhafer99&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  [![Fourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=FouratBenDhafer99&show_icons=true&theme=vision-friendly-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=C21807&ring_color=C21807)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FouratBenDhafer99&layout=compact&theme=vision-friendly-dark&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FouratBenDhafer99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
   
 </details>
 
